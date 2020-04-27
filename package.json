@@ -1,0 +1,9 @@
+{
+  "name": "vue-cache-dir",
+  "devDependencies": {
+    "@vue/cli": "^4.3.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

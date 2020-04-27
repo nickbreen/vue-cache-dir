@@ -1,0 +1,16 @@
+
+Environment Info:
+
+  System:
+    OS: Linux 5.4 Ubuntu 20.04 LTS (Focal Fossa)
+    CPU: (4) x64 Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz
+  Binaries:
+    Node: 12.16.2 - /tmp/xfs-2085341b/node
+    Yarn: 2.0.0-rc.32 - /tmp/xfs-2085341b/yarn
+    npm: Not Found
+  Browsers:
+    Chrome: Not Found
+    Firefox: 75.0
+  npmGlobalPackages:
+    @vue/cli: Not Found
+
